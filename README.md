@@ -7,7 +7,7 @@
 </tr>
 </table>
 
-# ![Note Zipper](https://github.com/RagavaPrasanna/crm-user-note-app//blob/master/images/landing.png)
+# ![Note Zipper](https://github.com/RagavaPrasanna/crm-user-note-app//blob/main/images/landing.png)
 
 
 ## Demo
@@ -17,28 +17,28 @@ Here is a working live demo :  https://notezipper.herokuapp.com/
 
 ### Landing Page
 
-![](https://github.com/RagavaPrasanna/crm-user-note-app/blob/master/images/landing.png)
+![](https://github.com/RagavaPrasanna/crm-user-note-app/blob/main/images/landing.png)
 
 ### Login Form
 You can register a new account or login with an existing one.
 
-![](https://github.com/RagavaPrasanna/crm-user-note-app/blob/master/images/login.png)
+![](https://github.com/RagavaPrasanna/crm-user-note-app/blob/main/images/login.png)
 
 ### Edit Profile
 
-![](https://github.com/RagavaPrasanna/crm-user-note-app/blob/master/images/profile.png)
+![](https://github.com/RagavaPrasanna/crm-user-note-app/blob/main/images/profile.png)
 
 ### Create a Note
 
-![](https://github.com/RagavaPrasanna/crm-user-note-app/blob/master/images/create.png)
+![](https://github.com/RagavaPrasanna/crm-user-note-app/blob/main/images/create.png)
 
 ### All Notes
 
-![](https://github.com/RagavaPrasanna/crm-user-note-app/blob/master/images/allnotes.png)
+![](https://github.com/RagavaPrasanna/crm-user-note-app/blob/main/images/allnotes.png)
 
 ### Edit Note
 
-![](https://github.com/RagavaPrasanna/crm-user-note-app/blob/master/images/edit.png)
+![](https://github.com/RagavaPrasanna/crm-user-note-app/blob/main/images/edit.png)
 
 ## Built with 
 
